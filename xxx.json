@@ -1,0 +1,579 @@
+[
+    {
+      "_data": {
+        "id": {
+          "fromMe": true,
+          "remote": "554133519680@c.us",
+          "id": "3EB04673C8BC492319D5",
+          "_serialized": "true_554133519680@c.us_3EB04673C8BC492319D5"
+        },
+        "body": "pop",
+        "type": "chat",
+        "t": 1658888542,
+        "notifyName": "",
+        "from": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "self": "in",
+        "ack": 2,
+        "invis": false,
+        "star": false,
+        "kicState": null,
+        "kicNotified": false,
+        "isFromTemplate": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "labels": [],
+        "hasReaction": false,
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": true,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": true,
+        "remote": "554133519680@c.us",
+        "id": "3EB04673C8BC492319D5",
+        "_serialized": "true_554133519680@c.us_3EB04673C8BC492319D5"
+      },
+      "ack": 2,
+      "hasMedia": false,
+      "body": "pop",
+      "type": "chat",
+      "timestamp": 1658888542,
+      "from": "5511932355129@c.us",
+      "to": "554133519680@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "fromMe": true,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    },
+    {
+      "_data": {
+        "id": {
+          "fromMe": false,
+          "remote": "554133519680@c.us",
+          "id": "808B99FD07EDFFE43F",
+          "_serialized": "false_554133519680@c.us_808B99FD07EDFFE43F"
+        },
+        "body": "Ops... 🙁\n\nInfelizmente não consegui compreender. \n\nPor favor, escolha uma das opções.",
+        "type": "chat",
+        "t": 1658888545,
+        "notifyName": "",
+        "from": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "self": "in",
+        "ack": 0,
+        "invis": false,
+        "star": false,
+        "kicState": null,
+        "kicNotified": false,
+        "isFromTemplate": false,
+        "broadcast": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "labels": [],
+        "hasReaction": false,
+        "ephemeralOutOfSync": false,
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": true,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": false,
+        "remote": "554133519680@c.us",
+        "id": "808B99FD07EDFFE43F",
+        "_serialized": "false_554133519680@c.us_808B99FD07EDFFE43F"
+      },
+      "ack": 0,
+      "hasMedia": false,
+      "body": "Ops... 🙁\n\nInfelizmente não consegui compreender. \n\nPor favor, escolha uma das opções.",
+      "type": "chat",
+      "timestamp": 1658888545,
+      "from": "554133519680@c.us",
+      "to": "5511932355129@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "broadcast": false,
+      "fromMe": false,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    },
+    {
+      "_data": {
+        "id": {
+          "fromMe": false,
+          "remote": "554133519680@c.us",
+          "id": "090B4FD5EE114DC9FE",
+          "_serialized": "false_554133519680@c.us_090B4FD5EE114DC9FE"
+        },
+        "type": "list",
+        "t": 1658888546,
+        "notifyName": "",
+        "from": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "self": "in",
+        "ack": 0,
+        "invis": false,
+        "star": false,
+        "kicState": null,
+        "kicNotified": false,
+        "isFromTemplate": false,
+        "broadcast": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "labels": [],
+        "hasReaction": false,
+        "ephemeralOutOfSync": false,
+        "list": {
+          "$$unknownFieldCount": 0,
+          "sections": [
+            {
+              "$$unknownFieldCount": 0,
+              "rows": [
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "0800",
+                  "rowId": "0800"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "E-mail",
+                  "rowId": "E-mail"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Google",
+                  "rowId": "Google"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Indicação",
+                  "rowId": "Indicação"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Material Impresso",
+                  "rowId": "Material Impresso"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Mensagem de SMS",
+                  "rowId": "Mensagem de SMS"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Redes Sociais",
+                  "rowId": "Redes Sociais"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Site do Banco",
+                  "rowId": "Site do Banco"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "TV",
+                  "rowId": "TV"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Outros",
+                  "rowId": "Outros"
+                }
+              ],
+              "title": "Qual a opção desejada?"
+            }
+          ],
+          "description": "Antes de iniciar o seu atendimento, informe como conseguiu o nosso contato: 👇",
+          "buttonText": "Escolha uma opção",
+          "listType": 1
+        },
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": true,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": false,
+        "remote": "554133519680@c.us",
+        "id": "090B4FD5EE114DC9FE",
+        "_serialized": "false_554133519680@c.us_090B4FD5EE114DC9FE"
+      },
+      "ack": 0,
+      "hasMedia": false,
+      "body": "",
+      "type": "list",
+      "timestamp": 1658888546,
+      "from": "554133519680@c.us",
+      "to": "5511932355129@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "broadcast": false,
+      "fromMe": false,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    },
+    {
+      "_data": {
+        "id": {
+          "fromMe": true,
+          "remote": "554133519680@c.us",
+          "id": "3EB00CBC824CBCE490BD",
+          "_serialized": "true_554133519680@c.us_3EB00CBC824CBCE490BD"
+        },
+        "body": "pop",
+        "type": "chat",
+        "t": 1658888930,
+        "from": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "self": "out",
+        "ack": 2,
+        "isNewMsg": true,
+        "star": false,
+        "kicNotified": false,
+        "isFromTemplate": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "hasReaction": false,
+        "ephemeralStartTimestamp": 1658888930,
+        "disappearingModeInitiator": "chat",
+        "bizPrivacyStatus": 1,
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": false,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": true,
+        "remote": "554133519680@c.us",
+        "id": "3EB00CBC824CBCE490BD",
+        "_serialized": "true_554133519680@c.us_3EB00CBC824CBCE490BD"
+      },
+      "ack": 2,
+      "hasMedia": false,
+      "body": "pop",
+      "type": "chat",
+      "timestamp": 1658888930,
+      "from": "5511932355129@c.us",
+      "to": "554133519680@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "fromMe": true,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    },
+    {
+      "_data": {
+        "id": {
+          "fromMe": false,
+          "remote": "554133519680@c.us",
+          "id": "03759F1337804B8B3C",
+          "_serialized": "false_554133519680@c.us_03759F1337804B8B3C"
+        },
+        "body": "Ops... 🙁\n\nInfelizmente não consegui compreender. \n\nPor favor, escolha uma das opções.",
+        "type": "chat",
+        "t": 1658888933,
+        "notifyName": "554133519680",
+        "from": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "self": "in",
+        "ack": 1,
+        "isNewMsg": true,
+        "star": false,
+        "kicNotified": false,
+        "recvFresh": true,
+        "isFromTemplate": false,
+        "broadcast": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "hasReaction": false,
+        "ephemeralOutOfSync": false,
+        "privacyModeWhenSent": {
+          "actualActors": 2,
+          "hostStorage": 1,
+          "privacyModeTs": 1638976530
+        },
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": false,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": false,
+        "remote": "554133519680@c.us",
+        "id": "03759F1337804B8B3C",
+        "_serialized": "false_554133519680@c.us_03759F1337804B8B3C"
+      },
+      "ack": 1,
+      "hasMedia": false,
+      "body": "Ops... 🙁\n\nInfelizmente não consegui compreender. \n\nPor favor, escolha uma das opções.",
+      "type": "chat",
+      "timestamp": 1658888933,
+      "from": "554133519680@c.us",
+      "to": "5511932355129@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "broadcast": false,
+      "fromMe": false,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    },
+    {
+      "_data": {
+        "id": {
+          "fromMe": false,
+          "remote": "554133519680@c.us",
+          "id": "D662D22707D54CD15A",
+          "_serialized": "false_554133519680@c.us_D662D22707D54CD15A"
+        },
+        "type": "list",
+        "t": 1658888934,
+        "notifyName": "554133519680",
+        "from": {
+          "server": "c.us",
+          "user": "554133519680",
+          "_serialized": "554133519680@c.us"
+        },
+        "to": {
+          "server": "c.us",
+          "user": "5511932355129",
+          "_serialized": "5511932355129@c.us"
+        },
+        "self": "in",
+        "ack": 1,
+        "isNewMsg": true,
+        "star": false,
+        "kicNotified": false,
+        "recvFresh": true,
+        "isFromTemplate": false,
+        "broadcast": false,
+        "mentionedJidList": [],
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "hasReaction": false,
+        "ephemeralOutOfSync": false,
+        "privacyModeWhenSent": {
+          "actualActors": 2,
+          "hostStorage": 1,
+          "privacyModeTs": 1638976530
+        },
+        "list": {
+          "$$unknownFieldCount": 0,
+          "sections": [
+            {
+              "$$unknownFieldCount": 0,
+              "rows": [
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "0800",
+                  "description": "",
+                  "rowId": "0800"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "E-mail",
+                  "description": "",
+                  "rowId": "E-mail"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Google",
+                  "description": "",
+                  "rowId": "Google"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Indicação",
+                  "description": "",
+                  "rowId": "Indicação"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Material Impresso",
+                  "description": "",
+                  "rowId": "Material Impresso"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Mensagem de SMS",
+                  "description": "",
+                  "rowId": "Mensagem de SMS"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Redes Sociais",
+                  "description": "",
+                  "rowId": "Redes Sociais"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Site do Banco",
+                  "description": "",
+                  "rowId": "Site do Banco"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "TV",
+                  "description": "",
+                  "rowId": "TV"
+                },
+                {
+                  "$$unknownFieldCount": 0,
+                  "title": "Outros",
+                  "description": "",
+                  "rowId": "Outros"
+                }
+              ],
+              "title": "Qual a opção desejada?"
+            }
+          ],
+          "title": "",
+          "description": "Antes de iniciar o seu atendimento, informe como conseguiu o nosso contato: 👇",
+          "buttonText": "Escolha uma opção",
+          "listType": 1
+        },
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isMdHistoryMsg": false,
+        "requiresDirectConnection": false,
+        "pttForwardedFeaturesEnabled": true,
+        "isEphemeral": false,
+        "isStatusV3": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": false,
+        "remote": "554133519680@c.us",
+        "id": "D662D22707D54CD15A",
+        "_serialized": "false_554133519680@c.us_D662D22707D54CD15A"
+      },
+      "ack": 1,
+      "hasMedia": false,
+      "body": "",
+      "type": "list",
+      "timestamp": 1658888934,
+      "from": "554133519680@c.us",
+      "to": "5511932355129@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "broadcast": false,
+      "fromMe": false,
+      "hasQuotedMsg": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "isGif": false,
+      "isEphemeral": false,
+      "links": []
+    }
+  ]

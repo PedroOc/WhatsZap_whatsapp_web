@@ -1,0 +1,79 @@
+const qrcode = require('qrcode-terminal');
+const { Client } = require('whatsapp-web.js');
+const client = new Client();
+
+const  readline  = require('readline')
+let chatBot9680;
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+})
+
+client.on('qr', qr => {    
+    qrcode.generate(qr, {small: true});
+});
+
+client.on('ready', async () => {
+    console.log('Client is ready!');
+    let chats = await client.getChats();
+    let idChatProcurado;
+    console.table(chats);
+    // chats.every(chat => {
+    //     console.log(chat.name)
+    //     if(chat.name == 'Bot PB 9680'){
+    //         idChatProcurado = chat.id
+    //         console.log(chat);
+    //         return false
+    //     }
+    //     return true;
+    // });
+    try {
+        chatBot9680 = await client.getChatById('554133519680@c.us');
+        await chatBot9680.sendMessage('test');
+    } catch (error) {
+        throw error.message        
+    }    
+});
+
+client.on('message', async msg  => {
+	//console.log('MESSAGE RECEIVED', msg);
+	console.log('MESSAGE RECEIVED', msg.body);
+    let botoes = msg.dynamicReplyButtons;
+    console.log('msg.dynamicReplyButtons: '+msg.dynamicReplyButtons);
+    if(botoes != null){
+        botoes.every(() =>{
+            console.table(botoes.buttonText.displayText);
+        })
+    }
+});
+
+client.initialize();
+
+function iniciarCLI(){
+    rl.question('Comando:',(answer)=>{
+        console.log(answer)
+            switch(answer){
+                case "exit":
+                    console.log('Matando serviço;')
+                    process.exit();
+                    break;
+                case answer.startsWith('send'):
+                    console.log("Enviar mensagem:"+answer.slice(5))
+                    chatBot9680.sendMessage(answer.slice(5));
+                    break;
+                case 'testar envia':
+                    console.log("Enviar mensagem:"+answer.slice(5))
+                    chatBot9680.sendMessage('testar envio');
+                    break
+                default :
+                    console.log('Caiu no Default');
+                    break;
+            }
+        rl.close()
+    })
+}
+
+
+
+
