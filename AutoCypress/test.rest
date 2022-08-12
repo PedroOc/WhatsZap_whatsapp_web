@@ -1,0 +1,35 @@
+###
+POST http://localhost:3000/startClient
+###
+POST http://localhost:3000/sendMSG
+Content-Type: application/json
+
+{
+    "msg":"TV"
+}
+###
+POST http://localhost:3000/finalizarClient
+###
+POST http://localhost:3000/carregarUltimaMSG
+Content-Type: application/json
+
+{
+    "celServer":"554133519680@c.us"
+}
+###
+POST http://localhost:3000/limparMensagens
+Content-Type: application/json
+
+{
+    "celServer":"554133519680@c.us"
+}
+###
+POST http://localhost:3000/contextualizarChat
+Content-Type: application/json
+
+{
+    "celServer":"554133519680@c.us"
+}
+###
+GET  http://localhost:3000/numeroMensagensNaoLidas
+###
